@@ -41,7 +41,4 @@ public class A {
         this.A3 = A3;
     }
     
-    public float somaA(){
-        return A1+A2;
-    }
 }
