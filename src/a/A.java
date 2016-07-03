@@ -15,7 +15,8 @@ public class A {
     private float A2;
     private String A3;
     private String Aramo4;
-    
+    private String kkkkk;
+            
     public A(int A1, float A2) {
         this.A1 = A1;
         this.A2 = A2;
