@@ -14,6 +14,7 @@ public class A {
     private int A1; 
     private float A2;
     private String A3;
+    private String Aramo4;
 
     public A(int A1, float A2) {
         this.A1 = A1;
@@ -43,5 +44,13 @@ public class A {
     
     public float somaA(){
         return A1+A2;
+    }
+
+    public String getAramo4() {
+        return Aramo4;
+    }
+
+    public void setAramo4(String Aramo4) {
+        this.Aramo4 = Aramo4;
     }
 }
